@@ -37,7 +37,7 @@
 # Why should you use it?
 Pros|Cons
 ------------ | -------------
-Interactive|Expensive
+Interactive|Expensive as fuck
 Responsive|
 Animated|
 Mobile-friendly|
@@ -46,6 +46,11 @@ Export Options|
 Accessible|
 Configurable|
 Unique Styling|
+Tons of Demos|
+Online Editor|
+
+
+# amCharts vs. Plotly
 
 
 
