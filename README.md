@@ -34,7 +34,7 @@
   * Weather
   * Flight Route
   
-## _______
+## Why should you use it?
 Pros|Cons
 ------------ | -------------
 Interactive|Expensive
