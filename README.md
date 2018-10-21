@@ -2,10 +2,10 @@
   <img src="https://avatars1.githubusercontent.com/u/1116146?s=460&v=4"></img>
 </p>
 
-## About
+# About
 **amCharts** is a Javascript-based visual framework created by *Anatanas Marcelionis* from Vilnius, Lithuania.
 
-## Products
+# Products
 * **Javascript Charts**
   * Serial Plots
     * Line
@@ -34,7 +34,7 @@
   * Weather
   * Flight Route
   
-## Why should you use it?
+# Why should you use it?
 Pros|Cons
 ------------ | -------------
 Interactive|Expensive
