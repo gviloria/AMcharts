@@ -3,7 +3,7 @@
 </p>
 
 ## About
-amCharts is a Javascript-based visual framework created by Anatanas Marcelionis from Vilnius, Lithuania.
+**amCharts** is a Javascript-based visual framework created by *Anatanas Marcelionis* from Vilnius, Lithuania.
 
 ## Products
 * **Javascript Charts**
@@ -34,5 +34,13 @@ amCharts is a Javascript-based visual framework created by Anatanas Marcelionis 
   * Weather
   * Flight Route
   
+## Advantages & Disadvantages
+Pros|Cons
+------------ | -------------
+|
+|
+|
+|
+|
 
 
