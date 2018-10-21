@@ -37,10 +37,15 @@
 ## Advantages & Disadvantages
 Pros|Cons
 ------------ | -------------
-|
-|
-|
-|
-|
+Interactive|
+Responsive|
+Animated|
+Mobile-friendly|
+Extendable|
+Export Options|
+Accessible|
+Configurable|
+Unique Styling|
+
 
 
