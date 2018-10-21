@@ -25,16 +25,14 @@ amCharts is a Javascript-based visual framework created by Anatanas Marcelionis 
     * Radar
     
 * **JavaScript Stock Charts**
-  * Multiple Data Sets
-  * Comparing Stock Indices
-  * Stock Events
-  * Horizon Chart
+  * Comparison
+  * Events
+  * Horizon
   
 * **JavaScript Maps**
-  * Heat Maps
-  * Weather Maps
-  * Bubble Maps
-  * Flight Route Maps
+  * Heat
+  * Weather
+  * Flight Route
   
 
 
