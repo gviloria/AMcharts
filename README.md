@@ -34,10 +34,10 @@
   * Weather
   * Flight Route
   
-## Advantages & Disadvantages
+## _______
 Pros|Cons
 ------------ | -------------
-Interactive|
+Interactive|Expensive
 Responsive|
 Animated|
 Mobile-friendly|
