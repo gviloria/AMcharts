@@ -66,6 +66,9 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 ```
 <script src="/bower_components/amcharts3/amcharts/amcharts.js"></script>
 <script src="/bower_components/amcharts3/amcharts/serial.js"></script>
+```
 
+# Previews
+![SVG Graph](https://i.imgur.com/VuE9bzu.png)
 
 
