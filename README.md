@@ -59,7 +59,13 @@ Using bower
 bower install amcharts3
 ```
 
-# amCharts vs. Plotly
+# Usage
+Include `amcharts.js` plus files you will be using for each chart type, i.e.
+`serial.js`, `pie.js`:
+
+```
+<script src="/bower_components/amcharts3/amcharts/amcharts.js"></script>
+<script src="/bower_components/amcharts3/amcharts/serial.js"></script>
 
 
 
