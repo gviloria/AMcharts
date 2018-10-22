@@ -49,6 +49,15 @@ Unique Styling|
 Tons of Demos|
 Online Editor|
 
+# Installing
+Using npm
+```
+npm install amcharts3
+```
+Using bower
+```
+bower install amcharts3
+```
 
 # amCharts vs. Plotly
 
