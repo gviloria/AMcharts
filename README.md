@@ -69,9 +69,9 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 ```
 
 # Previews
-* [SVG Graph](https://codepen.io/anon/pen/KGBozx)
+### [SVG Graph](https://codepen.io/anon/pen/KGBozx)
 ![SVG Graph](https://i.imgur.com/VuE9bzu.png)
-* [Radar Chart](https://codepen.io/anon/pen/ReBMVV)
+### [Radar Chart](https://codepen.io/anon/pen/ReBMVV)
 ![Radar Chart](https://i.imgur.com/ZYJOVYx.png)
 
 
