@@ -54,6 +54,7 @@ Many Export Options|
 Highly Customizable|
 [A ton of amazing demos](https://www.amcharts.com/demos/)|
 [Online Editor](https://live.amcharts.com/)|
+[Complete API references](https://docs.amcharts.com/3/javascriptcharts)|
 
 # Installing
 Using npm
