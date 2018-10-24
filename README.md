@@ -42,12 +42,11 @@ Pros|Cons
 ------------ | -------------
 Interactive|Expensive
 Highly Responsive|Closed Source
-Extendable|Annotation System
-Export Options|
-Accessible|
-Configurable|
-Tons of demos|
-Online Editor|
+[Extendable](https://www.amcharts.com/plugins/)|Annotation System
+Many Export Options|
+Highly Customizable|
+[A ton of amazing demos](https://www.amcharts.com/demos/)|
+[Online Editor](https://live.amcharts.com/)|
 
 # Installing
 Using npm
