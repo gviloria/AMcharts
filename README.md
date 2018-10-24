@@ -72,7 +72,7 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 ### [Radar Chart](https://codepen.io/gviloria/pen/pxxOWm/)
 ![Radar Chart](https://i.imgur.com/K6m7UUf.jpg)
 ### [Clustered Bar Chart](https://codepen.io/gviloria/pen/GYYwMq)
-![Clustered Bar Chart](https://i.imgur.com/DJ0doBU.png)
+![Clustered Bar Chart](https://i.imgur.com/sDTqFjD.png)
 ### [Flight Path](https://codepen.io/anon/pen/dgqmmM)
 ![Flight Path](https://i.imgur.com/E6upEFG.png)
 
