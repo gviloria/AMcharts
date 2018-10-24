@@ -87,8 +87,7 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 
 
 # Why should I use amCharts over plotly?
-* More refined out of the box styles
-* Mobile friendly
+* Aesthetically more refined 
 * Superior Documentation
-
+* Actually have a human respond for support
 
