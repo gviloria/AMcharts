@@ -69,6 +69,9 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 ```
 
 # Previews
+<p data-height="265" data-theme-id="dark" data-slug-hash="VEEdYx" data-default-tab="js,result" data-user="gviloria" data-pen-title="VEEdYx" class="codepen">See the Pen <a href="https://codepen.io/gviloria/pen/VEEdYx/">VEEdYx</a> by Gabriel L. Viloria (<a href="https://codepen.io/gviloria">@gviloria</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ### [Radar Chart](https://codepen.io/anon/pen/ReBMVV)
 ![Radar Chart](https://i.imgur.com/ZYJOVYx.png)
 ### [Intra-Day Graph](https://codepen.io/anon/pen/mzGXYe)
