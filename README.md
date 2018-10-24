@@ -48,8 +48,8 @@
 Pros|Cons
 ------------ | -------------
 Interactive|Expensive
-Highly Responsive|Closed Source
-[Extendable](https://www.amcharts.com/plugins/)|Text Annotation is horribad
+Highly Responsive|Closed source
+[Extendable](https://www.amcharts.com/plugins/)|Text annotation is horribad
 Many Export Options|
 Highly Customizable|
 [A ton of amazing demos](https://www.amcharts.com/demos/)|
