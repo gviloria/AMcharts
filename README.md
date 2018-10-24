@@ -71,8 +71,8 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 # Previews
 ### [Radar Chart](https://codepen.io/gviloria/pen/pxxOWm/)
 ![Radar Chart](https://i.imgur.com/K6m7UUf.jpg)
-### [Intra-Day Graph](https://codepen.io/anon/pen/mzGXYe)
-![Intra-Day Graph](https://i.imgur.com/BxxXnRX.png)
+### [Clustered Bar Chart](https://codepen.io/gviloria/pen/GYYwMq)
+![Clustered Bar Chart](https://i.imgur.com/DJ0doBU.png)
 ### [Flight Path](https://codepen.io/anon/pen/dgqmmM)
 ![Flight Path](https://i.imgur.com/E6upEFG.png)
 
