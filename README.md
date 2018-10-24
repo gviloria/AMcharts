@@ -40,9 +40,9 @@
 # Previews
 ![Chart](https://i.imgur.com/2sJGnfa.png)
 ![Chart2](https://i.imgur.com/TtyuVQF.png)
+![Chart4](https://i.imgur.com/TSBf4fL.png)
 ![Chart2.5](https://i.imgur.com/selP9oe.png)
 ![Chart3](https://i.imgur.com/2XdKMvT.png)
-![Chart4](https://i.imgur.com/TSBf4fL.png)
   
 # Why should you use it?
 Pros|Cons
