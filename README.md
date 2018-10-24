@@ -77,6 +77,16 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 <script src="/bower_components/amcharts3/amcharts/serial.js"></script>
 ```
 
+Themes
+```
+<script src="https://www.amcharts.com/lib/3/themes/none.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/dark.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/black.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/chalk.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/patterns.js"></script>
+```
+
 # Examples
 ### [Radar Chart](https://codepen.io/gviloria/pen/pxxOWm/)
 ![Radar Chart](https://i.imgur.com/K6m7UUf.jpg)
