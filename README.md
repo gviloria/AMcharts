@@ -40,6 +40,7 @@
 # Previews
 ![Chart](https://i.imgur.com/2sJGnfa.png)
 ![Chart2](https://i.imgur.com/TtyuVQF.png)
+![Chart2.5](https://i.imgur.com/selP9oe.png)
 ![Chart3](https://i.imgur.com/2XdKMvT.png)
   
 # Why should you use it?
