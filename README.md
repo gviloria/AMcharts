@@ -3,7 +3,7 @@
 </p>
 
 # About
-**amCharts** is a Javascript-based visual framework created by *Anatanas Marcelionis* from Vilnius, Lithuania. The beginning of amCharts  was in 2004 when the first version of amMap was created. 10+ years later they are a small company by choice; a team of 14 (cartography specialists, communications, support specialists, and a consultant with Anatanas still being the lead programmer).
+**amCharts** is a standalone Javascript-based visual framework created by *Anatanas Marcelionis* from Vilnius, Lithuania. The beginning of amCharts  was in 2004 when the first version of amMap was created. Today they are a small company by choice; a team of 14 (cartography specialists, communications, support specialists, and a consultant with Anatanas still being the lead programmer).
 
 # Products
 * **Javascript Charts**
