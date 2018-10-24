@@ -49,7 +49,7 @@ Pros|Cons
 ------------ | -------------
 Interactive|Expensive
 Highly Responsive|Closed Source
-[Extendable](https://www.amcharts.com/plugins/)|Annotation System
+[Extendable](https://www.amcharts.com/plugins/)|Text Annotation is horribad
 Many Export Options|
 Highly Customizable|
 [A ton of amazing demos](https://www.amcharts.com/demos/)|
