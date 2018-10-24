@@ -8,7 +8,7 @@
 #### Companies using amCharts
 ![Companies](https://i.imgur.com/K8eL6Ol.png)
 ![2ndRow](https://i.imgur.com/mkRMdnn.png)
-![3rdRow](https://imgur.com/a/iLCkuib)
+![3rdRow](https://i.imgur.com/cxgG7Fp.png)
 
 # Products
 * **Javascript Charts**
