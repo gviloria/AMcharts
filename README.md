@@ -37,6 +37,11 @@
   * Weather
   * Flight Route
   
+# Previews
+![Chart](https://i.imgur.com/2sJGnfa.png)
+![Chart2](https://i.imgur.com/TtyuVQF.png)
+![Chart3](https://i.imgur.com/2XdKMvT.png)
+  
 # Why should you use it?
 Pros|Cons
 ------------ | -------------
@@ -67,7 +72,7 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 <script src="/bower_components/amcharts3/amcharts/serial.js"></script>
 ```
 
-# Previews
+# Examples
 ### [Radar Chart](https://codepen.io/gviloria/pen/pxxOWm/)
 ![Radar Chart](https://i.imgur.com/K6m7UUf.jpg)
 ### [Clustered Bar Chart](https://codepen.io/gviloria/pen/GYYwMq)
