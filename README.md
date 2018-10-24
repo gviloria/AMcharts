@@ -37,16 +37,13 @@
 # Why should you use it?
 Pros|Cons
 ------------ | -------------
-Interactive|Expensive as fuck
-Responsive|
-Animated|
-Mobile-friendly|
+Interactive|Expensive
+Highly Responsive|Closed Source
 Extendable|
 Export Options|
 Accessible|
 Configurable|
-Unique Styling|
-Tons of Demos|
+Tons of demos|
 Online Editor|
 
 # Installing
