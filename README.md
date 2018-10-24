@@ -42,7 +42,7 @@ Pros|Cons
 ------------ | -------------
 Interactive|Expensive
 Highly Responsive|Closed Source
-Extendable|
+Extendable|Annotation System
 Export Options|
 Accessible|
 Configurable|
