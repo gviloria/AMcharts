@@ -5,6 +5,9 @@
 # About
 **amCharts** is a standalone Javascript-based advanced charting library that will suit any data visualization need. Initially created by *Anatanas Marcelionis* from Vilnius, Lithuania in 2004. Today they are a small company; a team of 14 (cartography specialists, communications, support specialists, and a consultant with Anatanas still being the lead programmer).
 
+### Companies using amCharts
+![Companies](https://i.imgur.com/gu4ygF6.png)
+
 # Products
 * **Javascript Charts**
   * Serial Plots
