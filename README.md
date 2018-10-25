@@ -99,5 +99,4 @@ Themes
 # Why should I use amCharts over plotly?
 * Aesthetically more refined 
 * Superior documentation
-* Actually have a human respond for support
 
